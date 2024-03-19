@@ -1,0 +1,198 @@
+/* WordPress Custom Css */
+.topbar-right.text-end {
+    text-align: left !important;
+}
+
+.blog-card .blog-content,
+.feedback-top .feedback-top-content,
+.about_list_item .list-content.ms-4 {
+    margin-right: 20px;
+}
+.service-card .card-content a i {
+    transform: rotate(180deg);
+    margin-right: 6px;
+}
+.author-left .author-info{
+    margin-right: 15px;
+}
+.blog-author .blog-meta .comment_count{
+    margin-right: 12px;
+}
+.footer-widget .footer-sb-form button {
+    left: 10px;
+    right: inherit;
+}
+.footer-widget .footer-sb-form input[type=email]{
+    padding-right: 20px;
+    text-align: right;
+}
+.hm2-service-tab ul li .tab_btn,
+.nav-wrapper ul li.has-submenu .submenu-wrapper .megamenu-item a,
+.nav-wrapper ul li.has-submenu .submenu-wrapper li a{
+    text-align: right;
+}
+
+.menu-list-wrapper .menu-list-content-right{
+    margin-right: 15px;
+}
+.menu-list-wrapper .menu-list-content-right p.description{
+    margin-bottom: 0;
+}
+.hero-btns .hm2-primary-btn{
+    margin-left: 15px;
+    margin-right: 0 !important;
+}
+.hm2-server-tab-control li button i,
+.tab_title_btn>img{
+    margin-left: 10px;
+    margin-right: 0;
+}
+.blog-card .blog-author .blog-meta a i{
+    margin-right: 0;
+    margin-left: 6px;
+}
+.hm2-pricing-single .pricing-badge{
+    right: inherit;
+    left: 20px;
+}
+.h5-pricing-single .popular-badge,
+.hm2-pricing-single .popular-badge{
+    right: inherit;
+    left: -50px;
+    transform: rotate(310deg);
+}
+.dm-hero-domain-form input#hostim-domain,
+.hm2-dm-search-form input{
+    border-radius: 0 30px 30px 0;
+    padding-right: 25px;
+}
+.dm-hero-domain-form input[type=submit],
+.hm2-dm-search-form .hm2-primary-btn {
+    border-radius: 30px 0 0 30px;
+}
+.h5-domain-search-form button{
+    right: inherit;
+    left: 0;
+}
+.h5-service-box a.explore:hover i,
+.h5-service-box a.explore span i{
+    transform: rotate(180deg);
+}
+.dm-pp-domain-item a i,
+.h5-blog-card .h5-blog-article-content .explore-btn:hover,
+.h5-blog-card .h5-blog-article-content .explore-btn{
+    transform: rotate(180deg);
+}
+.dm-pp-domain-item .dm-offer-badge{
+    right: inherit;
+    left: -20px;
+}
+.dm-pp-domain-item a i{
+    margin-right: 6px;
+}
+.dm-accordion .accordion-item .accordion-header a{
+    padding-right: 45px;
+}
+.pricing-column .pricing-badge{
+    right: inherit;
+    left: 30px;
+}
+.pricing-column .feature-list li i{
+    margin-right: 0;
+    margin-left: 10px;
+}
+.sidebar-widget .wp-block-group__inner-container h1::before,
+.sidebar-widget .wp-block-group__inner-container h2::before,
+.sidebar-widget .wp-block-group__inner-container h3::before,
+.sidebar-widget .wp-block-group__inner-container h4::before,
+.sidebar-widget .wp-block-group__inner-container h5::before,
+.sidebar-widget .wp-block-group__inner-container h6::before{
+    left: inherit;
+    right: 0;
+}
+.sidebar-widget form button {
+    right: inherit;
+    left: 10px;
+}
+.sidebar-widget form input.wp-block-search__input,
+.sidebar-widget form input {
+    padding: 18px 25px 18px 60px;
+}
+.bd-blog-meta span i,
+.hm2-blog-card-content .bog-author span i {
+    margin-right: 0;
+    margin-left: 6px;
+}
+.hm2-blog-card .hm2-blog-card-content .tag-btn{
+    margin-right: 0;
+}
+.sidebar-widget .wp-block-latest-comments li:before,
+.sidebar-widget ul#recentcomments li:before {
+    margin-right: 0;
+    margin-left: 6px;
+}
+.sidebar-widget ol.wp-block-latest-comments {
+    padding-right: 0;
+}
+.bd-blog-meta span {
+    margin-left: 0;
+    padding-left: 0;
+    border-left: 0;
+    margin-right: 15px;
+    padding-right: 15px;
+    border-right: 1px solid #ddd;
+}
+.bd-blog-meta span:first-child {
+    margin-right: 0;
+    padding-right: 0;
+    border-right: 0;
+}
+.bd-comment-area ol.comment-lists li.comment-box .comment-box-wrapper .comment-user-info .date{
+    right: inherit;
+    left: 0;
+}
+
+.pricing-column .popular-badge {
+   	right: inherit;
+    transform: rotate(310deg);
+    left: -90px;
+   }
+   
+   .header-section:not(.mobile-header) .navbar-nav>li.menu_half_width>.submenu-wrapper{
+   left: 65px; 
+}
+.nav-wrapper ul li.has-submenu:last-child:hover ul.icon-menu {
+	left: 0 !important;
+    right: inherit !important;
+}
+.nav-wrapper ul li.has-submenu .submenu-wrapper{
+    left: 62px;
+}
+.pricing-column .expand-btn i{
+    margin-right: 0;
+    margin-left: 6px;
+}
+.elementor-widget-container ul.menu li a:hover{
+    padding-left: 0;
+    padding-right: 15px;
+}
+.elementor-widget-container ul.menu li a::before{
+    left: inherit;
+    right: 0;
+}
+.mobile-menu ul li.has-submenu>i{
+    right: inherit;
+    left: 0;
+}
+.mobile-menu .close-menu{
+    right: inherit;
+    left: 20px;
+}
+.header-right div.next {
+    margin-left: 0;
+    margin-right: 20px;
+}
+.header-right div.next a::before {
+    left: inherit;
+    right: -10px;
+}

@@ -1,0 +1,42 @@
+<wpml-config>
+    <admin-texts>
+        <!-- Theme Settings -->
+        <key name="hostim_cs_options">
+            <key name="preloader_text" />
+            <key name="button_label" />
+            <key name="button_link" />
+            <key name="button_label_two" />
+            <key name="top_left_text" />
+            <key name="re_service_title" />
+            <key name="supported_script_title" />
+            <key name="copyright_text" />
+            <key name="page_header_default_title" />
+            <key name="page_header_description" />
+            <key name="contact_title" />
+            <key name="contact_address" />
+            <key name="contact_phone" />
+            <key name="contact_email" />
+            <key name="related_title" />
+            <key name="related_description" />
+            <key name="error_text" />
+            <key name="error_title" />
+            <key name="error_description" />
+        </key>
+
+        <!-- Page Meta Option -->
+        <key name="tt_page_options">
+            <key name="custom_title" />
+            <key name="meta_page_header_description" />
+        </key>
+
+        <!-- Page Meta Service Option -->
+        <key name="hostim_service_options">
+            <key name="service_title" />
+            <key name="service_short_desc" />
+            <key name="service_monthly_price" />
+        </key>
+
+    </admin-texts>
+</wpml-config>
+
+

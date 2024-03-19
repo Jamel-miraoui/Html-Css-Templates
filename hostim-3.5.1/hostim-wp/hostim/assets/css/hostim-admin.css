@@ -1,0 +1,8 @@
+@media(min-width:1120px) {
+    .ocdi__gl-item {
+        width: calc(25% - 20px);
+        margin: 0 20px 20px 0;
+        flex: 0 0 calc(25% - 20px);
+    }
+
+}

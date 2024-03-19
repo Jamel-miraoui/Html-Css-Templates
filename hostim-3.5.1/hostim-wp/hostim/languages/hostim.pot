@@ -1,0 +1,1765 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-11-15 18:02+0600\n"
+"PO-Revision-Date: 2022-08-28 17:36+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;_nx;_ex;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:25 inc/framework/admin-option.php:1258
+#: template-parts/header/page-header.php:125
+msgid "404"
+msgstr ""
+
+#: 404.php:31 inc/framework/admin-option.php:1265
+msgid "Page not Found"
+msgstr ""
+
+#: 404.php:37 inc/framework/admin-option.php:1272
+msgid ""
+"There many variations of passages available but the majority have suffered "
+"alteration in that that injected humour."
+msgstr ""
+
+#: 404.php:40
+msgid "Back to Home"
+msgstr ""
+
+#: comments.php:40
+msgid "<span class=\"number-comments\">1</span> Comment"
+msgstr ""
+
+#: comments.php:45
+#, php-format
+msgid "<span class=\"number-comments\">%1$s</span> Comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Full Name *"
+msgstr ""
+
+#: comments.php:80
+msgid "Email Address *"
+msgstr ""
+
+#: comments.php:83
+msgid "Write Comment"
+msgstr ""
+
+#: inc/class/enqueue-script.php:42 inc/class/enqueue-script.php:43
+msgid "on"
+msgstr ""
+
+#: inc/class/theme-helper.php:65
+msgid "Home"
+msgstr ""
+
+#: inc/class/theme-helper.php:225 inc/class/theme-helper.php:229
+#: inc/class/theme-helper.php:233 inc/class/theme-helper.php:240
+#: inc/class/theme-helper.php:244 inc/class/theme-helper.php:249
+msgid " Archives"
+msgstr ""
+
+#: inc/class/theme-helper.php:260
+msgid "Author: "
+msgstr ""
+
+#: inc/class/theme-helper.php:265 single.php:36
+msgid "Page"
+msgstr ""
+
+#: inc/class/theme-helper.php:270
+msgid "404 Error"
+msgstr ""
+
+#: inc/class/theme-helper.php:292
+msgid "Post navigation"
+msgstr ""
+
+#: inc/class/theme-helper.php:293
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/class/theme-helper.php:294
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/class/theme-helper.php:348 inc/class/walker-comment.php:42
+msgid "Pingback:"
+msgstr ""
+
+#: inc/class/theme-helper.php:348 inc/class/walker-comment.php:42
+msgid "(Edit)"
+msgstr ""
+
+#: inc/class/theme-helper.php:364
+msgid "Post author"
+msgstr ""
+
+#: inc/class/theme-helper.php:365
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/class/theme-helper.php:369 inc/class/walker-comment.php:63
+msgid "Reply"
+msgstr ""
+
+#: inc/class/theme-helper.php:377
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/class/theme-helper.php:381
+msgid "Edit"
+msgstr ""
+
+#: inc/class/theme-helper.php:419
+msgid " 0 Comment"
+msgstr ""
+
+#: inc/class/theme-helper.php:421 inc/class/theme-helper.php:677
+msgid " Comments"
+msgstr ""
+
+#: inc/class/theme-helper.php:423
+msgid " 1 Comment"
+msgstr ""
+
+#: inc/class/theme-helper.php:432
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/class/theme-helper.php:433 inc/class/theme-helper.php:476
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/class/theme-helper.php:446
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/class/theme-helper.php:473
+msgid " "
+msgstr ""
+
+#: inc/class/theme-helper.php:575
+msgid "by"
+msgstr ""
+
+#: inc/class/theme-helper.php:675
+msgid "1 Comment"
+msgstr ""
+
+#: inc/class/theme-helper.php:769 inc/framework/admin-option.php:749
+#: template-parts/header/page-header.php:65
+#: template-parts/header/page-header.php:107
+#: template-parts/header/page-header.php:127
+msgid "Blog"
+msgstr ""
+
+#: inc/class/theme-helper.php:778
+msgid "Search result for: “"
+msgstr ""
+
+#: inc/class/theme-helper.php:967
+msgid "Older Post"
+msgstr ""
+
+#: inc/class/theme-helper.php:982
+msgid "Next Post"
+msgstr ""
+
+#: inc/class/theme-helper.php:1006 inc/class/theme-helper.php:1024
+#: inc/framework/meta-option.php:572 inc/template-functions.php:59
+msgid "Default"
+msgstr ""
+
+#: inc/class/theme-support.php:97
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/class/theme-support.php:117
+msgid "Add widget here to appear it in sidebar."
+msgstr ""
+
+#: inc/customizer.php:34 inc/framework/admin-option.php:102
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Mailchimp Settings"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Manage your footer widget position sizes and Copyright information."
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Display on site"
+msgstr ""
+
+#: inc/customizer.php:99 inc/framework/meta-option.php:27
+msgid "Header Style"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "MailChimp API"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "API Key"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid ""
+"Enter the mailchimp api key to use newsletter form. You can get the api "
+"here: http://bit.ly/2Vh4Opr"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "List ID"
+msgstr ""
+
+#: inc/customizer.php:132
+msgid ""
+"Enter the mailchimp list id. You can found list here: http://bit.ly/2GzQMa7"
+msgstr ""
+
+#: inc/customizer.php:187
+#, php-format
+msgid "&copy; %1$s %2$s - Designed by %3$s"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "PixelSigns"
+msgstr ""
+
+#: inc/demos/demo_config.php:22
+msgid "Install and activate all "
+msgstr ""
+
+#: inc/demos/demo_config.php:24
+msgid "required plugins"
+msgstr ""
+
+#: inc/demos/demo_config.php:25
+msgid "before you click on the \"Import\" button."
+msgstr ""
+
+#: inc/demos/demo_config.php:29
+msgid "You will find all the pages in "
+msgstr ""
+
+#: inc/demos/demo_config.php:31
+msgid "Pages."
+msgstr ""
+
+#: inc/demos/demo_config.php:32
+msgid "Other pages will be imported along with the main Homepage."
+msgstr ""
+
+#: inc/demos/demo_config.php:37
+msgid "If you fail to import the demo data, follow the alternative way"
+msgstr ""
+
+#: inc/demos/demo_config.php:39
+msgid "here."
+msgstr ""
+
+#: inc/demos/demo_config.php:55
+msgid "Web Hosting"
+msgstr ""
+
+#: inc/demos/demo_config.php:69
+msgid "Hosting Services"
+msgstr ""
+
+#: inc/demos/demo_config.php:83
+msgid "Hosting Solutions"
+msgstr ""
+
+#: inc/demos/demo_config.php:96
+msgid "Game Hosting"
+msgstr ""
+
+#: inc/demos/demo_config.php:109
+msgid "Application Hosting"
+msgstr ""
+
+#: inc/demos/demo_config.php:122
+msgid "Black Friday"
+msgstr ""
+
+#: inc/demos/demo_config.php:136
+msgid "Hosting Provider"
+msgstr ""
+
+#: inc/demos/demo_config.php:150
+msgid "Dedicated Server"
+msgstr ""
+
+#: inc/demos/demo_config.php:164
+msgid "Web Hosting 02"
+msgstr ""
+
+#: inc/demos/demo_config.php:178
+msgid "Hostim RTL"
+msgstr ""
+
+#: inc/demos/demo_config.php:191
+msgid "Hosting Agency"
+msgstr ""
+
+#: inc/demos/demo_config.php:204
+msgid "Promotional Home"
+msgstr ""
+
+#: inc/demos/demo_config.php:217
+msgid "Hosting Home 2"
+msgstr ""
+
+#: inc/demos/demo_config.php:231
+msgid "VPS Hosting"
+msgstr ""
+
+#: inc/demos/demo_config.php:245
+msgid "Cloud Servers"
+msgstr ""
+
+#: inc/demos/demo_config.php:259
+msgid "Web Hosting 3"
+msgstr ""
+
+#: inc/demos/demo_config.php:273
+msgid "Cloud Hosting"
+msgstr ""
+
+#: inc/demos/demo_config.php:287
+msgid "Hosting Service 02"
+msgstr ""
+
+#: inc/demos/demo_config.php:301
+msgid "Hosting Business"
+msgstr ""
+
+#: inc/demos/demo_config.php:314
+msgid "Isometric"
+msgstr ""
+
+#: inc/framework/admin-option.php:10
+msgid "Theme Option"
+msgstr ""
+
+#: inc/framework/admin-option.php:12
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/framework/admin-option.php:19
+msgid "General"
+msgstr ""
+
+#: inc/framework/admin-option.php:25
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/framework/admin-option.php:30
+msgid "Pre-loader Text"
+msgstr ""
+
+#: inc/framework/admin-option.php:36
+msgid "Preloader Text Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:59
+msgid "Sticky Header On/Off"
+msgstr ""
+
+#: inc/framework/admin-option.php:66
+msgid "Display Back To Top Button"
+msgstr ""
+
+#: inc/framework/admin-option.php:89 inc/framework/admin-option.php:95
+#: inc/framework/meta-option.php:22
+msgid "Header"
+msgstr ""
+
+#: inc/framework/admin-option.php:107 inc/framework/meta-option.php:158
+msgid "Header Type"
+msgstr ""
+
+#: inc/framework/admin-option.php:109 inc/framework/meta-option.php:160
+msgid "Box"
+msgstr ""
+
+#: inc/framework/admin-option.php:110 inc/framework/meta-option.php:161
+msgid "Full Width"
+msgstr ""
+
+#: inc/framework/admin-option.php:118 inc/framework/meta-option.php:170
+msgid "Header Height"
+msgstr ""
+
+#: inc/framework/admin-option.php:119 inc/framework/meta-option.php:171
+msgid "Empty value will show default header height."
+msgstr ""
+
+#: inc/framework/admin-option.php:129 inc/framework/meta-option.php:182
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:130 inc/framework/meta-option.php:183
+msgid "You can change header background color."
+msgstr ""
+
+#: inc/framework/admin-option.php:131 inc/framework/admin-option.php:146
+#: inc/framework/admin-option.php:165 inc/framework/admin-option.php:176
+#: inc/framework/admin-option.php:187 inc/framework/admin-option.php:195
+#: inc/framework/admin-option.php:202 inc/framework/admin-option.php:220
+#: inc/framework/admin-option.php:228 inc/framework/admin-option.php:350
+#: inc/framework/admin-option.php:1251 inc/framework/meta-option.php:103
+#: inc/framework/meta-option.php:144 inc/framework/meta-option.php:184
+#: inc/framework/meta-option.php:200 inc/framework/meta-option.php:228
+#: inc/framework/meta-option.php:240 inc/framework/meta-option.php:253
+#: inc/framework/meta-option.php:265 inc/framework/meta-option.php:312
+#: inc/framework/meta-option.php:376
+msgid "Upload"
+msgstr ""
+
+#: inc/framework/admin-option.php:144 inc/framework/meta-option.php:198
+msgid "Sticky Header Background Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:145 inc/framework/meta-option.php:199
+msgid "You can change sticky header background color."
+msgstr ""
+
+#: inc/framework/admin-option.php:158
+msgid "Logo Settings"
+msgstr ""
+
+#: inc/framework/admin-option.php:164 inc/framework/meta-option.php:227
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/framework/admin-option.php:166 inc/framework/meta-option.php:229
+msgid "Upload logo for Header"
+msgstr ""
+
+#: inc/framework/admin-option.php:175 inc/framework/meta-option.php:239
+msgid "Retina Logo Upload @2x"
+msgstr ""
+
+#: inc/framework/admin-option.php:177 inc/framework/meta-option.php:241
+msgid ""
+"Upload your Retina Logo. This should be your Logo in double size (If your "
+"logo is 100 x 20px, it should be 200 x 40px)"
+msgstr ""
+
+#: inc/framework/admin-option.php:185 inc/framework/meta-option.php:251
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/framework/admin-option.php:186 inc/framework/meta-option.php:252
+msgid "Upload logo for Header Sticky and Inner Page."
+msgstr ""
+
+#: inc/framework/admin-option.php:193 inc/framework/meta-option.php:263
+msgid "Sticky Retina Logo @2x"
+msgstr ""
+
+#: inc/framework/admin-option.php:194 inc/framework/meta-option.php:264
+msgid "Upload Retina logo for Header Sticky."
+msgstr ""
+
+#: inc/framework/admin-option.php:201
+msgid "Dark Mode Logo Upload"
+msgstr ""
+
+#: inc/framework/admin-option.php:203
+msgid "Upload logo for Dark Mode"
+msgstr ""
+
+#: inc/framework/admin-option.php:212 inc/framework/admin-option.php:218
+msgid "Mobile Logo"
+msgstr ""
+
+#: inc/framework/admin-option.php:219
+msgid "Upload logo for mobile menu."
+msgstr ""
+
+#: inc/framework/admin-option.php:226
+msgid "Mobile Retina Logo @2x"
+msgstr ""
+
+#: inc/framework/admin-option.php:227
+msgid "Upload Retina logo for mobile menu."
+msgstr ""
+
+#: inc/framework/admin-option.php:234 inc/framework/meta-option.php:274
+msgid "Header Menu Style"
+msgstr ""
+
+#: inc/framework/admin-option.php:239 inc/framework/meta-option.php:281
+msgid "Menu Alignment"
+msgstr ""
+
+#: inc/framework/admin-option.php:241 inc/framework/meta-option.php:283
+msgid "Left"
+msgstr ""
+
+#: inc/framework/admin-option.php:242 inc/framework/meta-option.php:284
+msgid "Center"
+msgstr ""
+
+#: inc/framework/admin-option.php:243 inc/framework/meta-option.php:285
+msgid "Right"
+msgstr ""
+
+#: inc/framework/admin-option.php:250 inc/framework/admin-option.php:330
+#: inc/framework/meta-option.php:294 inc/framework/meta-option.php:354
+msgid "Menu Text Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:251 inc/framework/admin-option.php:284
+#: inc/framework/admin-option.php:331 inc/framework/meta-option.php:295
+#: inc/framework/meta-option.php:329 inc/framework/meta-option.php:355
+msgid "You can change menu text color."
+msgstr ""
+
+#: inc/framework/admin-option.php:267 inc/framework/admin-option.php:348
+#: inc/framework/meta-option.php:310 inc/framework/meta-option.php:374
+msgid "Menu Text Hover Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:268 inc/framework/admin-option.php:292
+#: inc/framework/admin-option.php:349 inc/framework/meta-option.php:311
+#: inc/framework/meta-option.php:338 inc/framework/meta-option.php:375
+msgid "You can change menu text hover color."
+msgstr ""
+
+#: inc/framework/admin-option.php:283 inc/framework/meta-option.php:328
+msgid "Menu Dropdown Text Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:291 inc/framework/meta-option.php:337
+msgid "Menu Dropdown Text Hover Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:301
+msgid "Dropdown Icon Type"
+msgstr ""
+
+#: inc/framework/admin-option.php:303 inc/framework/admin-option.php:1037
+#: inc/framework/taxonomy-options.php:22
+msgid "Icon"
+msgstr ""
+
+#: inc/framework/admin-option.php:304 inc/framework/admin-option.php:1250
+#: inc/framework/taxonomy-options.php:28
+msgid "Image"
+msgstr ""
+
+#: inc/framework/admin-option.php:311
+msgid "Dropdown Icon"
+msgstr ""
+
+#: inc/framework/admin-option.php:318
+msgid "Dropdown Image"
+msgstr ""
+
+#: inc/framework/admin-option.php:324 inc/framework/meta-option.php:347
+msgid "Header Sticky Menu Style"
+msgstr ""
+
+#: inc/framework/admin-option.php:367
+msgid "Header Top"
+msgstr ""
+
+#: inc/framework/admin-option.php:374
+msgid "Top Header On/Off"
+msgstr ""
+
+#: inc/framework/admin-option.php:381
+msgid "Use mark tag for marked text"
+msgstr ""
+
+#: inc/framework/admin-option.php:382
+msgid "Top Left Text"
+msgstr ""
+
+#: inc/framework/admin-option.php:398
+msgid "Top Header Mobile View : On/Off"
+msgstr ""
+
+#: inc/framework/admin-option.php:407
+msgid "Top Menu Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:414 inc/framework/admin-option.php:1324
+msgid "Typography"
+msgstr ""
+
+#: inc/framework/admin-option.php:415 inc/framework/meta-option.php:64
+msgid "You can change topbar font Typography."
+msgstr ""
+
+#: inc/framework/admin-option.php:424
+msgid "Font Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:425 inc/framework/admin-option.php:456
+#: inc/framework/meta-option.php:77 inc/framework/meta-option.php:118
+msgid "You can change topbar font color."
+msgstr ""
+
+#: inc/framework/admin-option.php:433
+msgid "Separator Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:443
+msgid "Background Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:444 inc/framework/meta-option.php:102
+#: inc/framework/meta-option.php:143
+msgid "You can change topbar background color."
+msgstr ""
+
+#: inc/framework/admin-option.php:455
+msgid "Sticky Font Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:464
+msgid "Sticky Separator Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:474
+msgid "Sticky Background Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:486
+msgid "Recommended Service Panel"
+msgstr ""
+
+#: inc/framework/admin-option.php:493
+msgid "Recommended Service Panel Show/Hide"
+msgstr ""
+
+#: inc/framework/admin-option.php:499
+msgid "Recommended Service"
+msgstr ""
+
+#: inc/framework/admin-option.php:505 inc/framework/admin-option.php:506
+msgid "Recommended Services"
+msgstr ""
+
+#: inc/framework/admin-option.php:512
+msgid "How many services would be shown"
+msgstr ""
+
+#: inc/framework/admin-option.php:521
+msgid "Ascending"
+msgstr ""
+
+#: inc/framework/admin-option.php:522
+msgid "Descending"
+msgstr ""
+
+#: inc/framework/admin-option.php:531 inc/framework/admin-option.php:537
+#: inc/framework/admin-option.php:538
+msgid "Supported Scripts"
+msgstr ""
+
+#: inc/framework/admin-option.php:572
+msgid "Header Elements Switch"
+msgstr ""
+
+#: inc/framework/admin-option.php:580
+msgid "Search On/Off"
+msgstr ""
+
+#: inc/framework/admin-option.php:587
+msgid "Call To Action Button On/Off"
+msgstr ""
+
+#: inc/framework/admin-option.php:593
+msgid "Button Label"
+msgstr ""
+
+#: inc/framework/admin-option.php:594 inc/framework/meta-option.php:444
+msgid "Get Started"
+msgstr ""
+
+#: inc/framework/admin-option.php:600
+msgid "Button Link"
+msgstr ""
+
+#: inc/framework/admin-option.php:608
+msgid "Dark Light Icon On/Off"
+msgstr ""
+
+#: inc/framework/admin-option.php:614
+msgid "Dark Background Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:622
+msgid "Dark Gray Background Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:635 inc/framework/meta-option.php:634
+msgid "Footer"
+msgstr ""
+
+#: inc/framework/admin-option.php:642 inc/framework/meta-option.php:650
+msgid "Select Footer Style"
+msgstr ""
+
+#: inc/framework/admin-option.php:649
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/framework/admin-option.php:654
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:660
+msgid "Padding Top/Bottom"
+msgstr ""
+
+#: inc/framework/admin-option.php:672
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:681
+msgid "Page Header"
+msgstr ""
+
+#: inc/framework/admin-option.php:687
+msgid " Page Header Settings"
+msgstr ""
+
+#: inc/framework/admin-option.php:692
+msgid "Page Header Enable"
+msgstr ""
+
+#: inc/framework/admin-option.php:698
+msgid "Page Header Breadcrumb Show/Hide"
+msgstr ""
+
+#: inc/framework/admin-option.php:705
+msgid "Banner Height"
+msgstr ""
+
+#: inc/framework/admin-option.php:719 inc/framework/meta-option.php:608
+msgid "Title Typography"
+msgstr ""
+
+#: inc/framework/admin-option.php:727 inc/framework/admin-option.php:1283
+msgid "Header Background"
+msgstr ""
+
+#: inc/framework/admin-option.php:728 inc/framework/admin-option.php:1284
+#: inc/framework/meta-option.php:583
+msgid "Default: Featured image, if fail will get image from global settings."
+msgstr ""
+
+#: inc/framework/admin-option.php:756
+msgid "Blog Archive"
+msgstr ""
+
+#: inc/framework/admin-option.php:764
+msgid "Style"
+msgstr ""
+
+#: inc/framework/admin-option.php:765 inc/framework/admin-option.php:778
+msgid "Display number of post per row"
+msgstr ""
+
+#: inc/framework/admin-option.php:777
+msgid "Columns"
+msgstr ""
+
+#: inc/framework/admin-option.php:791 inc/framework/admin-option.php:1122
+msgid "Layout"
+msgstr ""
+
+#: inc/framework/admin-option.php:804 inc/framework/admin-option.php:1160
+msgid "Blog Archive Sidebar Width"
+msgstr ""
+
+#: inc/framework/admin-option.php:816 inc/framework/admin-option.php:1172
+msgid "Blog Archive Sidebar Side Gap"
+msgstr ""
+
+#: inc/framework/admin-option.php:836 inc/framework/admin-option.php:844
+msgid "Post Content Word Count"
+msgstr ""
+
+#: inc/framework/admin-option.php:852 inc/framework/admin-option.php:905
+msgid "Hide post-meta author?"
+msgstr ""
+
+#: inc/framework/admin-option.php:858 inc/framework/admin-option.php:911
+msgid "Hide post-meta comments?"
+msgstr ""
+
+#: inc/framework/admin-option.php:864
+msgid "Hide post-meta categories?"
+msgstr ""
+
+#: inc/framework/admin-option.php:870 inc/framework/admin-option.php:917
+msgid "Hide post-meta date?"
+msgstr ""
+
+#: inc/framework/admin-option.php:882
+msgid "Button"
+msgstr ""
+
+#: inc/framework/admin-option.php:892
+msgid "Blog Single"
+msgstr ""
+
+#: inc/framework/admin-option.php:899
+msgid "Feature Image On/Off"
+msgstr ""
+
+#: inc/framework/admin-option.php:923
+msgid "Hide Post Navigation?"
+msgstr ""
+
+#: inc/framework/admin-option.php:929
+msgid "Display Author Bio Box"
+msgstr ""
+
+#: inc/framework/admin-option.php:935
+msgid "Show post share icon"
+msgstr ""
+
+#: inc/framework/admin-option.php:947
+msgid "Services"
+msgstr ""
+
+#: inc/framework/admin-option.php:954
+msgid "Custom Slug"
+msgstr ""
+
+#: inc/framework/admin-option.php:964 inc/framework/admin-option.php:970
+#: inc/framework/admin-option.php:984
+msgid "Contact Info"
+msgstr ""
+
+#: inc/framework/admin-option.php:966 inc/framework/admin-option.php:1019
+#: inc/framework/admin-option.php:1065
+msgid "This social profiles will display in your whole site."
+msgstr ""
+
+#: inc/framework/admin-option.php:982
+msgid "Contact Title"
+msgstr ""
+
+#: inc/framework/admin-option.php:989
+msgid "Contact Address"
+msgstr ""
+
+#: inc/framework/admin-option.php:991
+msgid "Chicago 12, Melborne City, USA"
+msgstr ""
+
+#: inc/framework/admin-option.php:996
+msgid "Phone Number"
+msgstr ""
+
+#: inc/framework/admin-option.php:998
+msgid "+88 01682648101"
+msgstr ""
+
+#: inc/framework/admin-option.php:1004
+msgid "Email"
+msgstr ""
+
+#: inc/framework/admin-option.php:1006
+msgid "info@themetags.com"
+msgstr ""
+
+#: inc/framework/admin-option.php:1012 inc/framework/admin-option.php:1018
+msgid "Social links"
+msgstr ""
+
+#: inc/framework/admin-option.php:1020
+msgid "Add New"
+msgstr ""
+
+#: inc/framework/admin-option.php:1027
+msgid "Name"
+msgstr ""
+
+#: inc/framework/admin-option.php:1032
+msgid "Url"
+msgstr ""
+
+#: inc/framework/admin-option.php:1044
+msgid "Facebook"
+msgstr ""
+
+#: inc/framework/admin-option.php:1050
+msgid "Twitter"
+msgstr ""
+
+#: inc/framework/admin-option.php:1056
+msgid "Dribbble"
+msgstr ""
+
+#: inc/framework/admin-option.php:1072
+msgid "Contact Info Style"
+msgstr ""
+
+#: inc/framework/admin-option.php:1079
+msgid "Contact Heading Typography"
+msgstr ""
+
+#: inc/framework/admin-option.php:1091
+msgid "Address Typography"
+msgstr ""
+
+#: inc/framework/admin-option.php:1103
+msgid "Social Icons Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:1114
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/framework/admin-option.php:1135
+msgid "Product Style"
+msgstr ""
+
+#: inc/framework/admin-option.php:1138
+msgid "One"
+msgstr ""
+
+#: inc/framework/admin-option.php:1139
+msgid "Two"
+msgstr ""
+
+#: inc/framework/admin-option.php:1195
+msgid "product Per Page"
+msgstr ""
+
+#: inc/framework/admin-option.php:1209
+msgid "Related product Per Page"
+msgstr ""
+
+#: inc/framework/admin-option.php:1218
+msgid "Related Post Show/Hide"
+msgstr ""
+
+#: inc/framework/admin-option.php:1224 inc/framework/admin-option.php:1232
+msgid "Related Post Tittle"
+msgstr ""
+
+#: inc/framework/admin-option.php:1226 inc/framework/admin-option.php:1234
+msgid "Related Post"
+msgstr ""
+
+#: inc/framework/admin-option.php:1243
+msgid "404 Page"
+msgstr ""
+
+#: inc/framework/admin-option.php:1256
+msgid "Error Text"
+msgstr ""
+
+#: inc/framework/admin-option.php:1263
+msgid "Error Title"
+msgstr ""
+
+#: inc/framework/admin-option.php:1270
+msgid "Description"
+msgstr ""
+
+#: inc/framework/admin-option.php:1277
+msgid " Style"
+msgstr ""
+
+#: inc/framework/admin-option.php:1301
+msgid "Error Text Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:1308 inc/framework/admin-option.php:1433
+msgid "Heading Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:1315
+msgid "Content Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:1329
+msgid "Body Font Settings"
+msgstr ""
+
+#: inc/framework/admin-option.php:1335
+msgid "Body"
+msgstr ""
+
+#: inc/framework/admin-option.php:1344
+msgid "Heading Font Settings"
+msgstr ""
+
+#: inc/framework/admin-option.php:1349
+msgid "Heading H1"
+msgstr ""
+
+#: inc/framework/admin-option.php:1359
+msgid "Heading H2"
+msgstr ""
+
+#: inc/framework/admin-option.php:1369
+msgid "Heading H3"
+msgstr ""
+
+#: inc/framework/admin-option.php:1379
+msgid "Heading H4"
+msgstr ""
+
+#: inc/framework/admin-option.php:1389
+msgid "Heading H5"
+msgstr ""
+
+#: inc/framework/admin-option.php:1400
+msgid "Heading H6"
+msgstr ""
+
+#: inc/framework/admin-option.php:1413
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/framework/admin-option.php:1420
+msgid "General Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:1426
+msgid "Body Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:1440
+msgid "Primary Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:1441
+msgid "Main Color Scheme"
+msgstr ""
+
+#: inc/framework/admin-option.php:1484
+msgid "Theme Gradient Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:1512
+msgid "Theme Gradient Hover Color"
+msgstr ""
+
+#: inc/framework/admin-option.php:1545
+msgid "Backup"
+msgstr ""
+
+#: inc/framework/meta-option.php:13
+msgid "Page Option"
+msgstr ""
+
+#: inc/framework/meta-option.php:35
+msgid "Custom Header"
+msgstr ""
+
+#: inc/framework/meta-option.php:36 inc/framework/meta-option.php:54
+#: inc/framework/meta-option.php:219 inc/framework/meta-option.php:642
+msgid "Yes"
+msgstr ""
+
+#: inc/framework/meta-option.php:37 inc/framework/meta-option.php:55
+#: inc/framework/meta-option.php:220 inc/framework/meta-option.php:643
+msgid "No"
+msgstr ""
+
+#: inc/framework/meta-option.php:44
+msgid "Header Container Width"
+msgstr ""
+
+#: inc/framework/meta-option.php:45
+msgid "Empty value will show default header width."
+msgstr ""
+
+#: inc/framework/meta-option.php:53
+msgid "Top Header"
+msgstr ""
+
+#: inc/framework/meta-option.php:63
+msgid "Topbar Font Typography"
+msgstr ""
+
+#: inc/framework/meta-option.php:76
+msgid "Topbar Font Color"
+msgstr ""
+
+#: inc/framework/meta-option.php:88
+msgid "Topbar Separator Color"
+msgstr ""
+
+#: inc/framework/meta-option.php:101
+msgid "Topbar Background Color"
+msgstr ""
+
+#: inc/framework/meta-option.php:117
+msgid "Topbar Sticky Font Color"
+msgstr ""
+
+#: inc/framework/meta-option.php:129
+msgid "Topbar Sticky Separator Color"
+msgstr ""
+
+#: inc/framework/meta-option.php:142
+msgid "Topbar Sticky Background Color"
+msgstr ""
+
+#: inc/framework/meta-option.php:212
+msgid "Logo"
+msgstr ""
+
+#: inc/framework/meta-option.php:218
+msgid "Page Logo"
+msgstr ""
+
+#: inc/framework/meta-option.php:392 inc/framework/meta-option.php:407
+msgid "Call To Action"
+msgstr ""
+
+#: inc/framework/meta-option.php:419
+msgid "Select Button Style"
+msgstr ""
+
+#: inc/framework/meta-option.php:421
+msgid "Primary"
+msgstr ""
+
+#: inc/framework/meta-option.php:422
+msgid "Secondary"
+msgstr ""
+
+#: inc/framework/meta-option.php:423
+msgid "Success"
+msgstr ""
+
+#: inc/framework/meta-option.php:424
+msgid "Danger"
+msgstr ""
+
+#: inc/framework/meta-option.php:425
+msgid "Warning"
+msgstr ""
+
+#: inc/framework/meta-option.php:426
+msgid "Info"
+msgstr ""
+
+#: inc/framework/meta-option.php:427 inc/framework/meta-option.php:661
+msgid "Light"
+msgstr ""
+
+#: inc/framework/meta-option.php:428 inc/framework/meta-option.php:660
+msgid "Dark"
+msgstr ""
+
+#: inc/framework/meta-option.php:429
+msgid "Theme Primary"
+msgstr ""
+
+#: inc/framework/meta-option.php:430
+msgid "Buttom Gaming"
+msgstr ""
+
+#: inc/framework/meta-option.php:454
+msgid "- Button Normal Style"
+msgstr ""
+
+#: inc/framework/meta-option.php:463 inc/framework/meta-option.php:520
+msgid "Button Color"
+msgstr ""
+
+#: inc/framework/meta-option.php:475 inc/framework/meta-option.php:532
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/framework/meta-option.php:491 inc/framework/meta-option.php:548
+msgid "Border"
+msgstr ""
+
+#: inc/framework/meta-option.php:501
+msgid "Padding"
+msgstr ""
+
+#: inc/framework/meta-option.php:511
+msgid "- Button Hover Style"
+msgstr ""
+
+#: inc/framework/meta-option.php:570
+msgid "Page Header Option"
+msgstr ""
+
+#: inc/framework/meta-option.php:573
+msgid "Enabled"
+msgstr ""
+
+#: inc/framework/meta-option.php:574
+msgid "Disabled"
+msgstr ""
+
+#: inc/framework/meta-option.php:582
+msgid "Header Image"
+msgstr ""
+
+#: inc/framework/meta-option.php:592
+msgid "Custom Title"
+msgstr ""
+
+#: inc/framework/meta-option.php:593 inc/framework/meta-option.php:601
+msgid "Set custom title for the page header. Default: The post title."
+msgstr ""
+
+#: inc/framework/meta-option.php:600
+msgid "Page Description"
+msgstr ""
+
+#: inc/framework/meta-option.php:615
+msgid "Title Color"
+msgstr ""
+
+#: inc/framework/meta-option.php:623
+msgid "Header Breadcrumbs"
+msgstr ""
+
+#: inc/framework/meta-option.php:624
+msgid "Display breadcrumbs on the page header"
+msgstr ""
+
+#: inc/framework/meta-option.php:641
+msgid "Footer Style"
+msgstr ""
+
+#: inc/framework/meta-option.php:658
+msgid "Switch Footer Dark or Light"
+msgstr ""
+
+#: inc/framework/meta-option.php:670
+msgid "Padding Top"
+msgstr ""
+
+#: inc/framework/service.php:23
+msgid "Service Title"
+msgstr ""
+
+#: inc/framework/service.php:28
+msgid "Short Description"
+msgstr ""
+
+#: inc/framework/service.php:38
+msgid "Monthly Price"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:347
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:351
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:379
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "Begin installing plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Begin updating plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:400
+msgid "Begin activating plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:404
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:405
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:406
+#: inc/tgm/class-tgm-plugin-activation.php:3404
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:407
+#: inc/tgm/class-tgm-plugin-activation.php:3188
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:409
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:411
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:413
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:414
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:415
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:416
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:629
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:630
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:752
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1063
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1063
+#: inc/tgm/class-tgm-plugin-activation.php:1073
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1073
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1266
+#: inc/tgm/class-tgm-plugin-activation.php:3184
+msgid "and"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2170
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2493
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2513
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2516
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2534
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2538
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2540
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2546
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2550
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2559
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2607
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2611
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2615
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2619
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2705
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2713
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2721
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2733
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2772
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2773
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2774
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2778
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2779
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2831
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2836
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2842
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2916
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2951
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2957
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2960
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2992
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2994
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3035
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3037
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3144
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3170
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3403
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3755
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3758
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3760
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3764
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3766
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3767
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3769
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3772
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3774
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3775
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3777
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3782
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3782
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/init.php:34
+msgid "Hostim Core"
+msgstr ""
+
+#: inc/tgm/init.php:43
+msgid "Codestar Framework"
+msgstr ""
+
+#: inc/tgm/init.php:51
+msgid "Elementor"
+msgstr ""
+
+#: inc/tgm/init.php:58
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgm/init.php:65
+msgid "One Click Demo Import"
+msgstr ""
+
+#: page.php:31
+msgid "Read more!"
+msgstr ""
+
+#: page.php:34
+msgid "Pages"
+msgstr ""
+
+#: search.php:41 template-parts/content-none.php:14
+#: template-parts/post/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:47 template-parts/content-none.php:36
+#: template-parts/post/content-none.php:33
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: search.php:53 search.php:64
+msgid "Take me home"
+msgstr ""
+
+#: search.php:57 template-parts/content-none.php:44
+#: template-parts/post/content-none.php:36
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: searchform.php:13 template-parts/header/header.php:118
+msgid "Search &hellip;"
+msgstr ""
+
+#: single.php:32 single.php:85 template-parts/content-page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:23 template-parts/post/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-search.php:34 template-parts/post/content.php:88
+msgid "Read More"
+msgstr ""
+
+#: template-parts/footer/site-info.php:23
+#, php-format
+msgid "&copy; %1$s %2$s - All Rights Reserved Made by %3$s"
+msgstr ""
+
+#: template-parts/header/header.php:95
+msgid "Add Menu"
+msgstr ""
+
+#: template-parts/header/page-header.php:45
+msgid "Blog Details"
+msgstr ""
+
+#: template-parts/header/page-header.php:52
+msgid "Support Details"
+msgstr ""
+
+#: template-parts/header/page-header.php:97
+#: template-parts/header/page-header.php:99
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/post/posts-list.php:30
+msgid "No title"
+msgstr ""

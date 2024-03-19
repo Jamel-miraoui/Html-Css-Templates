@@ -1,0 +1,189 @@
+v3.5.1 - 18th Nov, 2023
+- Fixed Pricing table monthly and yearly switcher color issue
+
+v3.5.0 - 15th Nov, 2023
+- Added Isometric Demo
+- Fixed Bulk Plugin Installation Issue
+- Updated Hostim Pricing Purchase Button custom attributes support
+- Added Hostim Heading Highlight Text Gradient
+- Updated Hostim logo Carousel Slide Delay
+- Updated Hostim Testimonial Carousel Slide Delay
+
+v3.4.1 - 21th Oct, 2023
+- Updated WHMCS version
+
+v3.4.0 - 16th Oct, 2023
+- Added Hosting Service 02 Demo
+- Added Hosting Business Demo
+- Updated Elementor Widgets Controls
+- Added Header Width Page Meta
+
+v3.3.1 - 04th Oct, 2023
+- Updated RTL demo
+- Updated Theme Option (Blog Archive)
+- Fixed Domain Search button style issue
+- Updated Hostim Pricing widget settings
+
+v3.3.0 - 13th Sep, 2023
+- Added Elementor Templates Library
+- Elementor Deprecated action hook replaced to support v3.16.1
+- Mega menu item widget style improved
+
+v3.2.0 - 23th Aug, 2023
+- Added Cloud Hosting Demo
+- Fixed Hostim Pricing layout-4 column issue
+
+v3.1.0 - 19th Aug, 2023
+- Added Web Hosting Demo
+- Testimonial widget style improved
+
+v3.0.0 - 09th Aug, 2023
+- Added Cloud Server Demo
+
+v2.9.1 - 08th Aug, 2023
+- Widgets style improved
+- Blog page header style improved
+
+v2.9.0 - 24th July, 2023
+- Added VPS Hosting Demo
+- Improve Pricing Table Style
+- Fixed Hostim Button link issue
+
+v2.8.0 - 24th June, 2023
+- Added Hosting Home 02 Demo
+- Fixed Hostim Game widget layout 04 support platfrom icon
+
+v2.7.0 - 11th June, 2023
+- Added Promotional Home
+- Added Sticky header enable/disable option
+- Fixed Pricing Single Widget feature list color & typography
+- Fixed Hostim Features widget title & content color & typography
+- Fixed Hostim Services Faq title & content color & typography
+
+v2.6.0 - 27th May, 2023
+- Added Hosting Agency Demo
+
+v2.5.1 - 17th May, 2023
+- Added Gutenberg Optimization support
+
+v2.5.0 - 13th May, 2023
+- Added dark mode with custom color selection option.
+- Added Dark Mode Color controls in the Elementor section, column, and element advance tab.
+
+v2.1.1 - 03th May, 2023
+- Deprecated function updated
+- One click demo import function updated
+
+v2.1.0 - 16th April, 2023
+- Added Hosting Provider Demo
+
+
+v2.0.0 - 11th April, 2023
+- Added Web Hosting Demo
+- Added Dedicated Server Demo
+
+
+v1.9.0 - 6th Mar, 2023
+- Added Data Center, Team and Compare Pricing Page
+
+
+V1.8.0 - 28th Feb, 2023
+- Added Career Page and Career Details Page.
+- Carousel item overflow issue fixed.
+
+
+V1.7.2 - 16th Feb, 2023
+- Added missing word for translation
+- Hostim Game Widget layout 2 'All Games' button linking
+- Fixed Hostim Doamin Search widget Link Options
+
+
+V1.7.1 - 15th Jan, 2023
+- Added Currency Option Hostim Service & Games Widgets
+- WHMCS Orderform checkout.tpl page updated
+
+
+V1.6.3 - 24th Dec, 2022
+- Added Hostim Hero 'Layout 1' Mark Text color & typography
+- Added Hostim Doamin Search redirection with external link
+- Improved Hostim Pricing Switcher Widget
+- Improved Header top bar menu color
+- Improved Hostim Pricing Widget
+- Fix Hostim Feature tab slug
+- Improved Hostim Domain Price widget
+
+
+V1.6.2 - 3rd Dec, 2022
+- Improved Hostim Pricing widget control Layout 01, 02, 03
+- Fix Service Category slug issues
+- Fix All content showing Hostim Features Layout 02
+
+
+V1.6.1 - 23th Nov, 2022
+- Improved Call To Action button setting from Theme Option and Page Option
+- Improved Hostim Pricing Popular and Discount Badge
+- Improved "Domain Search Form" widget style and controls
+- Added external option for "Doamin Search Form" widget layout-3
+- Added separate purchase link for each package in "Hostimg Pricing Slider" - 01: VPS Tab Slider
+
+V1.6.0 - 20th Nov, 2022
+- Added Home Slider 02 Demo
+- Added Home Minimal Demo
+- Improved Top Header Control Options
+- Improved Hostim Game Widget Control
+
+V1.5.5 - 9th Nov, 2022
+- Hostim Pricing Slider feature improved
+- Hostim Pricing [layout 2] period issue fixed
+
+V1.5.4 - 7th Nov, 2022
+- Domain Search form double extension issue
+- Extend Currency Symbol list
+- Added style controls to the 'Hostim Features' widget
+- Fixed 'Hostim Pricing' annual price issue
+- Improved demo data import system.
+
+V1.5.3 - 23th Oct, 2022
+- Added support 1-10 numeric numbers in "Hostim Doamin Price"
+- Added support to remove all extension from "Hostim Doamin Search Form"
+
+V1.5.2 - 14th Oct, 2022
+- Fixed "Hostim Pricing" - layout 2 can't use number in first character.
+- Fixed "Hostim Domain Search Form" issue.
+- Fixed "Hostim Pricing" - layout 3 monthly & yearly button issue.
+
+V1.5.1 - 03th Oct, 2022
+- Added Hostim Slider
+- RTL Demo added
+- Bug fixed and code cleanup
+
+V1.5.0 - 28th Sep, 2022
+- Added Hostim Child Theme
+- Added WPML Support
+- Added Hostim Slider
+- Bug fixed and code cleanup
+
+V1.4.0 - 26th Sep, 2022
+ - Added Cloud Hosting Demo
+ - Added Email Hosting Demo
+ - Added Affiliate Page
+ - Added Pricing Page 02
+
+V1.3.0 - 21th Sep, 2022
+ - Added 'Black Friday' Hosting Demo
+ - Added 'Game Hosting' Hosting Demo
+
+V1.2.0 - 19th Sep, 2022
+ - Added new demo 'Game Hosting'
+ - Added new Hosting Page 'Dedicated Server'
+ - Added new Hosting Page 'Reseller Hosting'
+ - Added Mega Menu Option
+ - Added header variation
+ - Added footer variation
+ - Added call to action button on header
+
+V1.1.0 - 14th Sep, 2022
+ - Added new demo 'Application Hosting'
+
+V1.0.0 - 13th Sep, 2022
+- Initial released
