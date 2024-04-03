@@ -1,3 +1,0 @@
-# dmin_dashbaord_v17_html_css_js_bootstap
-
-dmin_dashbaord_v17_html_css_js_bootstap
